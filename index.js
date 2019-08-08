@@ -1,3 +1,3 @@
 export default function jmdpa() {
-    return null;
+    return 2;
 }
